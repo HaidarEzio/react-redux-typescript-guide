@@ -52,7 +52,7 @@
     "@storybook/addon-links": "5.2.5",
     "@storybook/addon-storyshots": "5.2.5",
     "@storybook/addons": "5.2.5",
-    "@storybook/react": "5.2.5",
+    "@storybook/react": "8.0.5",
     "@typescript-eslint/eslint-plugin": "5.22.0",
     "@typescript-eslint/parser": "5.22.0",
     "eslint": "8.14.0",
